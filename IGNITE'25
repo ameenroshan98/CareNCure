@@ -173,12 +173,7 @@
         <div class="bg-gray-100 p-4 sm:p-6 text-center text-sm text-gray-600 rounded-b-xl">
             <p>Leaderboard updated daily. Keep earning points!</p>
             <p class="mt-1">Next update: 2025-06-25 09:00 AM</p>
-            <!-- Link to Google Sheet -->
-            <p class="mt-2 text-blue-600 hover:text-blue-800 transition duration-200 ease-in-out">
-                <a href="https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID_HERE/edit?usp=sharing" target="_blank" rel="noopener noreferrer" class="underline">
-                    View/Edit Raw Data in Google Sheet
-                </a>
-            </p>
+            <!-- Google Sheet link removed from here -->
         </div>
     </div>
 </body>
